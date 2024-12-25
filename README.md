@@ -1,4 +1,12 @@
 # Correlation and regression for data analysis
+EX.NO:1
+
+DATE:
+
+NAME:M.GAJALAKSHMI
+
+REGISTER NO:24900240
+
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
