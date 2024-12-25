@@ -1,5 +1,5 @@
 # Correlation and regression for data analysis
-EX.NO:1
+EX.NO:3
 
 DATE:
 
